@@ -15,9 +15,7 @@ escribirás solamente el nombre del modulo, luego de cada modulo, dejarás un es
 
 Ejemplo:
 
-`discord.py
+```discord.py
+colorama```
 
-colorama`
 
-
-y listo, tendrás tu autoinstalador de modulos listo!!
