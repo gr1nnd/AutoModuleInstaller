@@ -15,7 +15,7 @@ escribirás solamente el nombre del modulo, luego de cada modulo, dejarás un es
 
 Ejemplo:
 
-```discord.py
-colorama```
+discord.py
+colorama
 
 
